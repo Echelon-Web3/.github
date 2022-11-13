@@ -1,4 +1,4 @@
-<img align="left" width="170" height="170"  src="profile/img/ech_logotype_withpadding.png">
+<img align="left" height="170"  src="profile/img/ech_logotype_withpadding.png">
 
 ## 👋 Hi! We Are Echelon
 
